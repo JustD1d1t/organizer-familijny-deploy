@@ -1,0 +1,1 @@
+import{t as o,N as a,A as r,aA as l,$ as i}from"./WOMjux0z.js";const _={__name:"index",props:{lines:{type:String,default:"none"}},setup(e){const t=e;return(s,c)=>{const n=i;return o(),a(n,{class:"overflow-auto py-2 rounded-xl",inset:!0,lines:t.lines},{default:r(()=>[l(s.$slots,"default")]),_:3},8,["lines"])}}};export{_};
